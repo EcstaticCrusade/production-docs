@@ -30,3 +30,6 @@
 	* Locate SD card nearby
 	* Place SD card into device
 	* List menu options to format the card
+
+8) Change (device name from #7) input from Multiview 1 (MV1) to Program 2 (PGM2)
+	* (List steps to do that)
