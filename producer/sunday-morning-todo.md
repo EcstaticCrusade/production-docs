@@ -26,10 +26,12 @@
 6) Free disk space on AJA
 	* List steps here
 
-7) Prepare (real device name here)
+7) Prepare SD Card Recorder
 	* Locate SD card nearby
 	* Place SD card into device
 	* List menu options to format the card
 
-8) Change (device name from #7) input from Multiview 1 (MV1) to Program 2 (PGM2)
+8) Change (device name from #7) input from Multiview 1 (MV1) to AUX4
 	* (List steps to do that)
+	
+9) Ensure that the Killswitch button on the Producer's streamdeck is red (OFF)
