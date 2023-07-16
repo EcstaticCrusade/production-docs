@@ -15,7 +15,7 @@ In all stages, follow along in Planning Center by using the PCO Next snd PCO Pre
 
 1) As director dissolves to camera 3, press the Greeting Proc Amp macro
 1) Prompt front house graphics for MC back wall
-     a) Their MC macro
+    - Their MC macro
 
 ## MC
 
@@ -28,10 +28,11 @@ In all stages, follow along in Planning Center by using the PCO Next snd PCO Pre
 
 1) During the closing prayer, prompt front house graphics to clear stage TV of slides
 1) When the prayer at the end of the sermon is complete, press the Host Closing macro
-a) Typically when the pastor says "amen"
+    - Typically when the pastor says "amen"
 
 ## Response
 
-1) Prompt front house graphics for pre-service slides when service is complete
+1) When the in-person service is complete, prompt front house graphics for pre-service slides.
+    - Their Preservice macro
 1) Before the Host Closing video finishes, press the Slides Online macro
 1) Press the Stop Recording macro
