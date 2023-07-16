@@ -14,7 +14,8 @@ In all stages, follow along in Planning Center by using the PCO Next snd PCO Pre
 ## Greeting
 
 1) As director dissolves to camera 3, press the Greeting Proc Amp macro
-1) Prompt front house graphics for MC back wall (MC macro)
+1) Prompt front house graphics for MC back wall
+a) Their MC macro
 
 ## MC
 
@@ -25,6 +26,7 @@ In all stages, follow along in Planning Center by using the PCO Next snd PCO Pre
 
 ## Message
 
+1) During the closing prayer, prompt front of
 1) When the prayer at the end of the sermon is complete, press the Host Closing macro
 a) Typically when the pastor says "amen"
 
