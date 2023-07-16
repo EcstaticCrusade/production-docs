@@ -26,11 +26,12 @@ In all stages, follow along in Planning Center by using the PCO Next snd PCO Pre
 
 ## Message
 
-1) During the closing prayer, prompt front of
+1) During the closing prayer, prompt front house graphics to clear stage TV of slides
 1) When the prayer at the end of the sermon is complete, press the Host Closing macro
 a) Typically when the pastor says "amen"
 
 ## Response
 
-1) Prompt front graphics for pre-service slides when service is complete
-2) Before the Host Closing video finishes, press the Slides Online macro
+1) Prompt front house graphics for pre-service slides when service is complete
+1) Before the Host Closing video finishes, press the Slides Online macro
+1) Press the Stop Recording macro
