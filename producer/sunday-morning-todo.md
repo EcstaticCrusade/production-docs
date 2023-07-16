@@ -4,8 +4,7 @@
 
 1) Format SD Cards
     - The Format Drives macro isn't working (as of 7/16/2023)
-    - menu navigation steps here
-    - format option to pick
+    - Format the SD Card as Mac OS Extended
 
 1) Open Planning Center Services Live webpage
 
