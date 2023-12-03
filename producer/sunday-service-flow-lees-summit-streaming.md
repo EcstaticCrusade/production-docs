@@ -1,6 +1,6 @@
 # Sunday Morning Flow - LS Campus Streaming
 
-In all stages, follow along in Planning Center by using the PCO Next snd PCO Prev macros
+In all stages, follow along in Planning Center by using the PCO Next and PCO Prev macros
 
 ## Pre-Service
 
