@@ -2,18 +2,18 @@
 
 ### Video Room
 
+1) Restart producer computer
+
 1) Format SD Cards
     - The Format Drives macro isn't working (as of 7/16/2023)
     - Format the SD Card as Mac OS Extended
 
 1) Open Planning Center Services Live webpage
 
-1) Confirm Unity app is running
+1) Open Unity app
 
-1) Confirm PVP is running
-    - Ensure the Audio channel is running
-    - Ensure the In House channel is running
-    - Ensure the Lobby channel is running
+1) Open PVP and start Audio, In House, and In House Copy playlists
+    - Ensure all Next Cues to Next prior to starting
 
 1) Test Host MC macro and listen to video
 
