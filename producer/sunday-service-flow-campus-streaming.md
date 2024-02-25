@@ -12,7 +12,7 @@ In all stages, follow along in Planning Center by using the PCO Next snd PCO Pre
 
 ## Greeting
 
-1) As director dissolves to camera 3, press the Greeting Proc Amp macro
+1) Before the director dissolves to camera 3, press the Greeting Proc Amp macro
 1) Prompt front house graphics for MC back wall
     - Their MC macro
 
