@@ -28,7 +28,7 @@ In all stages, follow along in Planning Center by using the PCO Next snd PCO Pre
 
 1) Once the pastor is visible, press the Resi Message macro
 1) When the prayer at the end of the sermon is complete, lead video and audio to transition back to in-house.
-    - After "amen", give audio and video a two count (2, 1, Go)
+    - Immediately after "amen"
     - Press the Resi Stop: ONL BCST macro
 
 ## Response
